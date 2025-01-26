@@ -1,0 +1,17 @@
+
+p {
+    color: blue;
+  }
+  body {
+    background-color: rgb(211, 211, 211);
+  }
+  h1 {
+    font-family: Arial, sans-serif;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  div {
+    border: 2px solid black;
+  }
+  
