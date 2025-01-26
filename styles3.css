@@ -1,0 +1,25 @@
+button:hover {
+    background-color: green;
+  }
+  
+  li:nth-child(2) {
+    color: red;
+  }
+  
+  h3::before {
+    content: "Вфжно: ";
+    font-weight: bold;
+    color: red;
+  }
+  
+  div {
+    opacity: 0.4;
+  }
+  
+  section {
+    background-image: url("C:/Users/Мадина/OneDrive/Изображения/(1920 x 1080) life and death.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+  }
+  
