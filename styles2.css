@@ -1,0 +1,15 @@
+button {
+    border-radius: 15px; 
+}
+div {
+    padding: 15px;
+}
+p {
+    margin: 20px;
+}
+.centered-text {
+    text-align: center;
+}
+span {
+    display: none;
+}
